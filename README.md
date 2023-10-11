@@ -1,2 +1,1 @@
-# cracks4you
-SUGOMA
+Website for installation guides to download cracked applications
